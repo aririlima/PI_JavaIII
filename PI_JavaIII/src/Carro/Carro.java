@@ -5,17 +5,17 @@ public class Carro {
 	private String Chassi;
 	private String Montadora;
 	private String Modelo;
-	private float Motorização;
-	private float Preço;
+	private float Motorizacao;
+	private float Preco;
 	
 	public Carro(String chassi, String montadora, String modelo,
-			float motorização, float preço) {
+			float motorizacao, float preco) {
 		super();
 		Chassi = chassi;
 		Montadora = montadora;
 		Modelo = modelo;
-		Motorização = motorização;
-		Preço = preço;
+		Motorizacao = motorizacao;
+		Preco = preco;
 	}
 	
 	
