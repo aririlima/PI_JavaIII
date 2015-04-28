@@ -6,7 +6,7 @@ import Carro.Carro;
 import Motocicleta.Motocicleta;
 
 public class Loja {
-		private String Endereço;
+		private String Endereco;
 		private String Nome;
 		private List<Carro> listaDeCarros;
 		private List<Motocicleta> listaDeMotocicletas;
